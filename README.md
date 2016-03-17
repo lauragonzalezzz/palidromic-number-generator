@@ -1,0 +1,1 @@
+# palidromic-number-generator
